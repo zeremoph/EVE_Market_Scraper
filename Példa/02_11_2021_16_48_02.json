@@ -1,0 +1,108 @@
+[
+  {
+    "buy": {
+      "forQuery": {
+        "bid": true,
+        "types": [
+          20
+        ],
+        "regions": [
+          10000002
+        ],
+        "systems": [],
+        "hours": 24,
+        "minq": 1
+      },
+      "volume": 3067669,
+      "wavg": 729.54,
+      "avg": 700.70,
+      "variance": 17138.81,
+      "stdDev": 130.92,
+      "median": 753.00,
+      "fivePercent": 775.41,
+      "max": 832.00,
+      "min": 414.00,
+      "highToLow": true,
+      "generated": 1635865801368
+    },
+    "sell": {
+      "forQuery": {
+        "bid": false,
+        "types": [
+          20
+        ],
+        "regions": [
+          10000002
+        ],
+        "systems": [],
+        "hours": 24,
+        "minq": 1
+      },
+      "volume": 8237479,
+      "wavg": 1262.07,
+      "avg": 1191.91,
+      "variance": 98260.98,
+      "stdDev": 313.47,
+      "median": 1325.50,
+      "fivePercent": 926.57,
+      "max": 2101.00,
+      "min": 888.00,
+      "highToLow": false,
+      "generated": 1635865801368
+    }
+  }
+]
+[
+  {
+    "buy": {
+      "forQuery": {
+        "bid": true,
+        "types": [
+          1228
+        ],
+        "regions": [
+          10000065
+        ],
+        "systems": [],
+        "hours": 24,
+        "minq": 1
+      },
+      "volume": 8000000,
+      "wavg": 5.99,
+      "avg": 6.13,
+      "variance": 0.08,
+      "stdDev": 0.27,
+      "median": 5.81,
+      "fivePercent": 6.29,
+      "max": 6.29,
+      "min": 5.81,
+      "highToLow": true,
+      "generated": 1635868056892
+    },
+    "sell": {
+      "forQuery": {
+        "bid": false,
+        "types": [
+          1228
+        ],
+        "regions": [
+          10000065
+        ],
+        "systems": [],
+        "hours": 24,
+        "minq": 1
+      },
+      "volume": 564568,
+      "wavg": 33.57,
+      "avg": 32.80,
+      "variance": 56.70,
+      "stdDev": 7.53,
+      "median": 40.00,
+      "fivePercent": 20.00,
+      "max": 40.00,
+      "min": 20.00,
+      "highToLow": false,
+      "generated": 1635868056892
+    }
+  }
+]
