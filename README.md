@@ -27,3 +27,7 @@ Ha más tárgynak szeretnéd az értékét, akkor meg kell tudnod mi az ID-je! A
 Majd az URL-nél át kell írnod a "typeid=xxxx"-t! 
 A régió átállításához pedig a következő értéket módosítsd az URL-ben: "regionlimit=xxxxxxxx"
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TODO:
+-Tetszőleges tárgy kiválasztása
+-tetszőleges terület kiválasztása
